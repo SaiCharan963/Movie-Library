@@ -90,4 +90,6 @@
     ---
 
     ## 📷 Screenshots
+    <img width="1891" height="895" alt="image" src="https://github.com/user-attachments/assets/095160b8-f43a-40ec-86d6-230a3b8370ea" />
+    <img width="1897" height="898" alt="image" src="https://github.com/user-attachments/assets/1b603d3c-1a49-4c25-b6dd-a3ad74e46f67" />
 
